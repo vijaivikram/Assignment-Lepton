@@ -1,0 +1,9 @@
+For this assignment, i have selected lifestyle stores website.
+I have used BeautifulSoup library to scrape the data from the website.
+I have scraped all the required details and have inserted them into 
+a dataframe and the converted them into a CSV file as mentioned. 
+The assignmentwas easier as I had experience with BeautifulSoup 
+and the only difficulty I faced was to choose my favourite store. 
+
+Reagrds,
+Vijai Vikram I
